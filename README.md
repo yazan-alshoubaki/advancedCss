@@ -1,6 +1,6 @@
 # personal-website
-This website have informations related to the instructor "Mohammed Abu-sreaa"
-in this project gaind new skills like
+This website has information related to the instructor "Mohammed Abu-sreaa". <br/>
+In this project gained new skills like
 - CSS variables
 - Animations
 - Responsive web pages
