@@ -1,4 +1,4 @@
-# Project Name - Advanced CSS Course Final Project
+# Project Name - Personal-Website
 
 ## Description
 Congratulations on completing the Advanced CSS course! This project is the culmination of your hard work and learning on Almdrasa.com. In this course, you have gained expertise in various advanced CSS techniques, including CSS variables, animations, responsive web design, and SASS (Syntactically Awesome Style Sheets). This readme file will guide you through the project setup and provide an overview of the project structure and features.
